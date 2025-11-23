@@ -1,4 +1,4 @@
-ython Flashcard App 
+Python Flashcard App 
 
 A simple, command-line interface (CLI) application built in Python to help users study and memorize information using digital flashcards.
 
