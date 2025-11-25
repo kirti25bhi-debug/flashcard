@@ -1,6 +1,7 @@
 Python Flashcard App 
 
 A simple, command-line interface (CLI) application built in Python to help users study and memorize information using digital flashcards.
+This program allows the user to create, review, and quiz yourself using digital flashcards—right from the terminal.
 
 Features
 
@@ -12,8 +13,7 @@ Hidden Answers: Answers are concealed until you press 'Enter', giving you time t
 
 Session Storage: Cards are stored in a temporary dictionary while the program is running.
 
-Prerequisites
-
+Requirements
 Python 3.x installed on your machine.
 
 How to Run
@@ -31,7 +31,7 @@ Usage Guide
 
 Once the program starts, you will see a menu with three options:
 
-Add a new flashcard: * Type 1 and press Enter.
+Add a new flashcard:  Type 1 and press Enter.
 
 Type your Question (e.g., "What is the capital of India?").
 
@@ -59,13 +59,13 @@ random Module: specifically random.shuffle(), to mix up the order of questions d
 
 while Loop: Keeps the application running until the user explicitly chooses to exit.
 
+
 Future Improvements
 
-Possible updates to add later:
-
-File Persistence: Save flashcards to a .txt or .json file so data isn't lost when the program closes.
-
-Score Keeping: Track how many answers the user gets right.
-
+Spaced repetition algorithm (SM-2)
+GUI using Tkinter/PyQt
+Import/export CSV
+Multiple-choice quiz mode
+Stats dashboard
 Categories: Group flashcards by subject (e.g., Math, Science).
-
+Score Keeping: Track how many answers the user gets right.
