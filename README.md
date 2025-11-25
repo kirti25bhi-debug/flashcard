@@ -18,7 +18,7 @@ Python 3.x installed on your machine.
 
 How to Run
 
-Download the script: Save the Python code into a file named flashcards.py.
+Download the script: Save the Python code into a file named flash.py.
 
 Open Terminal: Navigate to the folder containing the file using your command prompt or terminal.
 
